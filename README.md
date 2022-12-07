@@ -2,4 +2,4 @@
 
 <h2>Them CPanel For hosting owners</h2>
 
-<img src="https://secplus.xyz/dl/pictrue/CPanel-Them.png">CPanel</img>
+<img src="https://secplus.xyz/dl/picture/CPanel-Them.png">CPanel</img>
